@@ -2,7 +2,7 @@
 
 ## For User
 
-[Download and install](https://github.com/zhetengbiji/bb10-app-manager/releases)
+[Download and install](https://github.com/onyxcode/bb10-app-manager/releases)
 
 ## For Dev
 
